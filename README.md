@@ -21,4 +21,15 @@ now switch to master and merge exp2 ends
 ```
 git merge basicstructures -m "merge with messgae"
 ```
-hii from mizba
+## Exp5 Git Push and Git Pull 
+Confirm upstream and push
+```
+git branch -vv
+git push    
+```
+Suppose this line and below few lines are the work done by another employee say Ravi
+now this work can be pulled to local machine using below command 
+```
+git pull
+```
+
